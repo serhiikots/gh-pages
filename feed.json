@@ -1,0 +1,79 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "А-КВАДРАТ",
+    "description": "",
+    "home_page_url": "https://serhiikots.github.io/gh-pages",
+    "feed_url": "https://serhiikots.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "A-Kvadrat"
+    },
+    "items": [
+        {
+            "id": "https://serhiikots.github.io/gh-pages/oblicyuvannya-budinkiv/",
+            "url": "https://serhiikots.github.io/gh-pages/oblicyuvannya-budinkiv/",
+            "title": "ОБЛИЦЮВАННЯ БУДИНКІВ",
+            "image": "https://serhiikots.github.io/gh-pages/media/posts/4/0-02-05-ef2d59958e21af1a60fdf9c1eef1eea5cf11c3e1b9496eecb049b8ca97e7b3f1_206d6495f074b2.jpg",
+            "author": {
+                "name": "A-Kvadrat"
+            },
+            "tags": [
+                   "Облицювання",
+                   "Клінкерна цегла"
+            ],
+            "date_published": "2021-04-03T18:00:46+03:00",
+            "date_modified": "2021-04-03T18:15:08+03:00"
+        },
+        {
+            "id": "https://serhiikots.github.io/gh-pages/altanki/",
+            "url": "https://serhiikots.github.io/gh-pages/altanki/",
+            "title": "АЛЬТАНКИ",
+            "image": "https://serhiikots.github.io/gh-pages/media/posts/3/altanka_a-kavdrat.jpg",
+            "author": {
+                "name": "A-Kvadrat"
+            },
+            "tags": [
+                   "Цегляна альтанка",
+                   "Альтанка"
+            ],
+            "date_published": "2021-04-03T17:57:17+03:00",
+            "date_modified": "2021-04-03T17:57:17+03:00"
+        },
+        {
+            "id": "https://serhiikots.github.io/gh-pages/ogorozhi/",
+            "url": "https://serhiikots.github.io/gh-pages/ogorozhi/",
+            "title": "ОГОРОЖІ",
+            "summary": " Паркан із цегли Будуємо лише якісні паркани Паркан із цегли \"рваний\"&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://serhiikots.github.io/gh-pages/media/posts/2/gallery/0-02-05-4121640776d0164da01d68f8ad100001001caaf640aa2e1d7debf81a362ad5fc_206d6495f630f5.jpg\" data-size=\"1600x1200\"><img loading=\"lazy\" src=\"https://serhiikots.github.io/gh-pages/media/posts/2/gallery/0-02-05-4121640776d0164da01d68f8ad100001001caaf640aa2e1d7debf81a362ad5fc_206d6495f630f5-thumbnail.jpg\" alt=\"Цегляний паркан\" width=\"768\" height=\"576\"></a>\n<figcaption>Паркан із цегли</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://serhiikots.github.io/gh-pages/media/posts/2/gallery/0-02-05-ca1b6d60af21d19b9c17c66e3c5525d0dd0f411061ea3361a066f53248a5b4da_206d6495f60304.jpg\" data-size=\"1200x1600\"><img loading=\"lazy\" src=\"https://serhiikots.github.io/gh-pages/media/posts/2/gallery/0-02-05-ca1b6d60af21d19b9c17c66e3c5525d0dd0f411061ea3361a066f53248a5b4da_206d6495f60304-thumbnail.jpg\" alt=\"Паркан із цегли\" width=\"768\" height=\"1024\"></a>\n<figcaption>Будуємо лише якісні паркани</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://serhiikots.github.io/gh-pages/media/posts/2/gallery/0-02-05-a92186400dddba2ef2e463bcf8c39af313c64bd312b9aaad279685d47bf2d376_206d6495f6ae1e.jpg\" data-size=\"1280x960\"><img loading=\"lazy\" src=\"https://serhiikots.github.io/gh-pages/media/posts/2/gallery/0-02-05-a92186400dddba2ef2e463bcf8c39af313c64bd312b9aaad279685d47bf2d376_206d6495f6ae1e-thumbnail.jpg\" alt=\"Цегляний паркан\" width=\"768\" height=\"576\"></a>\n<figcaption>Паркан із цегли \"рваний\" камінь</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://serhiikots.github.io/gh-pages/media/posts/2/gallery/0-02-05-2e2ddbbb5025218f417bc46132a4a065384e44b13ae19bcb91fdea17ed259ec8_206d6495f6a72f.jpg\" data-size=\"1600x1200\"><img loading=\"lazy\" src=\"https://serhiikots.github.io/gh-pages/media/posts/2/gallery/0-02-05-2e2ddbbb5025218f417bc46132a4a065384e44b13ae19bcb91fdea17ed259ec8_206d6495f6a72f-thumbnail.jpg\" alt=\"Будинок огороджений парканом\" width=\"768\" height=\"576\"></a>\n<figcaption>Гарний паркан подарує вам затишок</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://serhiikots.github.io/gh-pages/media/posts/2/gallery/0-02-05-41d66b71fa92f0b60bd5d82975cc556c34ce5d45a6b9ce77dd8ddfc24e499cd8_206d6495f6b497.jpg\" data-size=\"1600x1066\"><img loading=\"lazy\" src=\"https://serhiikots.github.io/gh-pages/media/posts/2/gallery/0-02-05-41d66b71fa92f0b60bd5d82975cc556c34ce5d45a6b9ce77dd8ddfc24e499cd8_206d6495f6b497-thumbnail.jpg\" alt=\"Детальне фото паркану\" width=\"768\" height=\"512\"></a>\n<figcaption>У нас лише якісні паркани</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://serhiikots.github.io/gh-pages/media/posts/2/gallery/0-02-05-dfccbac61d3157a8777aa82eeb647ff2e51d6096ab2fde88771b3c4e7efd2226_206d6495f6cc1b.jpg\" data-size=\"1600x1066\"><img loading=\"lazy\" src=\"https://serhiikots.github.io/gh-pages/media/posts/2/gallery/0-02-05-dfccbac61d3157a8777aa82eeb647ff2e51d6096ab2fde88771b3c4e7efd2226_206d6495f6cc1b-thumbnail.jpg\" alt=\"Паркан із підсвіткою\" width=\"768\" height=\"512\"></a>\n<figcaption>Будуємо стильні паркани</figcaption>\n</figure>\n</div></div>",
+            "image": "https://serhiikots.github.io/gh-pages/media/posts/2/0-02-05-967c892efd215c8911a51cad016867f2a24009859e47ebef4ebd982f5c8356fb_206d6495f6374f.jpg",
+            "author": {
+                "name": "A-Kvadrat"
+            },
+            "tags": [
+                   "Паркан ",
+                   "Огорожа",
+                   "Забор"
+            ],
+            "date_published": "2021-04-03T17:53:10+03:00",
+            "date_modified": "2021-04-03T21:17:37+03:00"
+        },
+        {
+            "id": "https://serhiikots.github.io/gh-pages/a-kvadrat/",
+            "url": "https://serhiikots.github.io/gh-pages/a-kvadrat/",
+            "title": "ПАРКАНИ - ЖАЛЮЗІ",
+            "summary": "Компанія «А-Квадрат» має тривалий досвід у зведенні парканів. Серед наших пропозицій тепер&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">Компанія «А-Квадрат» має тривалий досвід у зведенні парканів. Серед наших пропозицій тепер і горизонтальний паркан жалюзі, який отримав визнання багатьох користувачів через міцність конструкції, її підвищену функціональність та естетичний зовнішній вигляд. Паркани типу «жалюзі» – це паркани нового покоління.</span></p>\n<p><span style=\"font-weight: 400;\">Вибравши саме такий паркан, клієнт отримує:</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\"> приватність;</span></li>\n<li><span style=\"font-weight: 400;\"> довговічність;</span></li>\n<li><span style=\"font-weight: 400;\"> красивий дизайн;</span></li>\n<li><span style=\"font-weight: 400;\"> циркуляцію повітря, чого немає у деяких інших парканах;</span></li>\n<li><span style=\"font-weight: 400;\"> економію, яка зумовлена стійкістю полімерного покриття, що виключає потребу в щорічному підфарбовуванні;</span></li>\n<li><span style=\"font-weight: 400;\"> простоту в лагодженні конструкції, адже за потреби можна замінити всього кілька планок, а не увесь проліт.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Незважаючи на зовсім недавню появу на ринку парканів типу «жалюзі», вони стрімко набувають популярності серед замовників. Особливо це стосується тих клієнтів, які висувають високі вимоги до парканів та віддають перевагу більш сучасним конструкціям!</span></p>",
+            "image": "https://serhiikots.github.io/gh-pages/media/posts/1/0-02-05-2f219ecf7397ee6f33f51a3a33fbf0e61195c364bc5c34e3d4959e9a627d196e_206d6495f61c7f.jpg",
+            "author": {
+                "name": "A-Kvadrat"
+            },
+            "tags": [
+                   "Паркан ",
+                   "Огорожа",
+                   "Забор"
+            ],
+            "date_published": "2021-03-30T16:36:25+03:00",
+            "date_modified": "2021-04-03T18:13:56+03:00"
+        }
+    ]
+}
